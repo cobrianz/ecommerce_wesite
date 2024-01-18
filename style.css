@@ -1036,6 +1036,21 @@ FLOWERS
     color: #000;
 }
 
+.featured__center-flower img{
+    margin: 0;
+    padding: 0;
+    width: 500px;
+    border-radius: 1rem;
+}
+
+.flower-featured__text p{
+    color: #000;
+}
+
+.flower-featured__text a button {
+    color: #fff;
+    background: #FF506E;
+}
 
 /* 
 
